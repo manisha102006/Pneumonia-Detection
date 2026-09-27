@@ -1,0 +1,4 @@
+venv/
+chest_xray/
+*.zip
+__pycache__/
